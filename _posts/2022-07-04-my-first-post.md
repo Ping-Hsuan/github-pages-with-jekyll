@@ -8,4 +8,4 @@ Today we will be looking at classification in ML.
 $sgn(w^Tx +b)$
 </p>
 
-![Fig1](github-pages-with-jekyll/docs/assets/fig01.png)
+![Fig1](/github-pages-with-jekyll/docs/assets/fig01.png)
